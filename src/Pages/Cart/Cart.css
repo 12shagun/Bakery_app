@@ -1,0 +1,37 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(109, 93, 93);
+    justify-content: space-between;
+}
+
+.cart-center-column{
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+  }
+
+  .content-center{
+    display: flex;
+    justify-content: center;
+  }
+
+
+.padding-16{
+    padding: 16px;
+  }
+
+.content-between{
+    display: flex;
+    justify-content: space-between;
+  }
+
+.seprator{
+    border-top: 1px solid rgb(109, 93, 93);
+}
+
+.hover-color:hover{
+    background-color:#86bf86;
+}

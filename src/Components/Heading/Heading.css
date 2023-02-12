@@ -1,0 +1,28 @@
+.heading{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.heading-large{
+    font-size: 40px;
+    font-weight: 600;
+  }
+  
+  .heading-medium{
+    font-size: 30px;
+    font-weight: 500;
+  }
+
+  .heading-small{
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .heading-primary{
+    color: #383434;
+  }
+  
+  .heading-logo{
+    color: #fad7d7;
+  }
+  

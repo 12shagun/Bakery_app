@@ -1,0 +1,14 @@
+.border-round{
+    border-radius: 5px;
+}
+
+.content-center{
+    display:flex;
+    align-items:center;
+}
+
+.search-icon{
+    font-size:20px;
+    width:20px;
+    padding-left:2px;
+}
